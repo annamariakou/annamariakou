@@ -1,5 +1,6 @@
 
-![Github banner (1)](https://github.com/annamariakou/annamariakou/assets/110191105/02869866-f9a5-4bce-833e-2d3bfa0ac21a)
+![Github banner (2)](https://github.com/annamariakou/annamariakou/assets/110191105/3c70e020-d8a2-4928-b55e-de45ca2c985b)
+
 
 Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills. 
 
