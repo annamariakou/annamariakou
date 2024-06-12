@@ -2,9 +2,10 @@
 
 Hi there, I'm Annamaria 👋 
 
-❤️ My passion is creating tech for good. 
-👩🏻‍💻 MERN Tech Stack [Javascript, React, Node.JS, Express.JS] 
-📝 Currently learning: Python 
+- ❤️ My passion is creating tech for good. 
+- 👩🏻‍💻 MERN Tech Stack [Javascript, React, Node.JS, Express.JS]
+- 🖼️ Next.js 
+- 📝 Currently learning: Python 
 
 
 <!--
