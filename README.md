@@ -13,6 +13,8 @@ Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills.
 
 📲 Let's connect on [linkedin](https://www.linkedin.com/in/annamariakou/) if you'd like to get in touch or to hear a fun fact. 
 
+----
+
 
 <!--
 **annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
