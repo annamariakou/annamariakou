@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[Github banner](https://github.com/annamariakou/annamariakou/assets/110191105/42c0c96c-2956-436f-9500-12d709470415)
+![Github banner](https://github.com/annamariakou/annamariakou/assets/110191105/9581b338-f832-4d7b-a3d8-07e6fba4b356)
+
 
 <!--
 **annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
