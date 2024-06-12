@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+[Github banner](https://github.com/annamariakou/annamariakou/assets/110191105/42c0c96c-2956-436f-9500-12d709470415)
+
 <!--
-**annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
+ `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
