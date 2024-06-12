@@ -9,7 +9,7 @@ Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills.
 - 🎨 I care about the user experience from design to accesbility.
 - 🐧 I love to share fun facts.
 
-📲 Let's connect on [linkedin](https://www.linkedin.com/in/annamariakou/) if you'd like to get in touch or to hear my fun facts. 
+📲 Let's connect on [linkedin](https://www.linkedin.com/in/annamariakou/) if you'd like to get in touch or to hear a fun fact. 
 
 
 <!--
