@@ -19,7 +19,11 @@ Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills.
 
 🧠 SoCBrain - [Github Repo](https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm)
 
-- 
+SoCBrain is a slick and engaging quiz experience for School of Code bootcampers to test their technical knowledge. It also allows SOC coaches to track technical progress and analyze data via a dashboard view, helping to improve the bootcampers’ learning experience.
+
+- Tech Stack: React, Typescript, Next.js, Supabase
+- Deployed: Vercel
+- DevOps: CI/CD, Github Flow, Github Actions, Playwright testing 
 
 
 <!--
