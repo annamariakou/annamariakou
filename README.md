@@ -15,6 +15,12 @@ Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills.
 
 ----
 
+🚀 Projects 
+
+🧠SoCBrain - [Github Repo] (https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm)
+
+- 
+
 
 <!--
 **annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
