@@ -13,8 +13,6 @@ Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills.
 
 📲 Let's connect on [linkedin](https://www.linkedin.com/in/annamariakou/) if you'd like to get in touch or to hear a fun fact. 
 
-----
-
 ## 🚀 Projects 
 
 🧠 SoCBrain - [Github Repo](https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm)
@@ -26,6 +24,10 @@ SoCBrain is a slick and engaging quiz experience for School of Code bootcampers 
 - DevOps: CI/CD, Github Flow, Github Actions, Playwright testing
 - Design tools: Figma
 
+👩‍🍳 Projects underconstruction 
+
+- Plant Swap: An app the local community can use to swap plants. 
+- Carbon Emissions app
 
 <!--
 **annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
