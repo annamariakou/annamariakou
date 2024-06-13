@@ -24,7 +24,7 @@ SoCBrain is a slick and engaging quiz experience for School of Code bootcampers 
 - **DevOps**: CI/CD, Github Flow, Github Actions, Playwright testing
 - **Design tools**: Figma
 
-👩‍🍳 Projects underconstruction 
+👩‍🍳 Projects under construction 
 
 - **Plant Swap**: An app the local community can use to swap plants. 
 - **Carbon Emissions app**
