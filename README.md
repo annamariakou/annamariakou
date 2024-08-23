@@ -26,7 +26,8 @@ SoCBrain is a slick and engaging quiz experience for School of Code bootcampers 
 
 👩‍🍳 Projects under construction 
 
-- **Plant Swap**: An app the local community can use to swap plants. 
+- **Plant Swap**: An app the local community can use to swap plants.
+- **Katsika**: An app for job seekers. 
 - **Carbon Emissions app**
 
 <!--
