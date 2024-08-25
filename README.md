@@ -2,7 +2,7 @@
 ![Github banner (2)](https://github.com/annamariakou/annamariakou/assets/110191105/3c70e020-d8a2-4928-b55e-de45ca2c985b)
 
 
-Hi there, I'm Annamaria 👋 A Junior Developer with full stack skills. 
+Hi there, I'm Annamaria 👋 A Full Stack Developer. 
 
 - ❤️ My passion is creating tech for good. 
 - 👩🏻‍💻 MERN Tech Stack [Javascript, React, Node.JS, Express.JS]
