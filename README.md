@@ -31,7 +31,7 @@ SoCBrain is a slick and engaging quiz experience for School of Code bootcampers 
 - **Carbon Emissions app**
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=annamariakou)](https://github.com/annamariakou/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamariakou&layout=compact)
 <!--
 **annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
  `README.md` (this file) appears on your GitHub profile.
