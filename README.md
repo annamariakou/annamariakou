@@ -30,6 +30,12 @@ Using a bento grid design, Country Search fetches data from the Rest Countries A
 
 - **Tech Stack**: Javascript, Rest Countries API, CSS, Netlify, Bento Grid Design 
 
+❄️ Weather App - [Github Repo](https://github.com/annamariakou/weather-app-)
+
+A minimalistic weather app, featuring the ability to select your current location, search any city, adjust from Fahrenheit to celsius and view the 6 day forecast. 
+
+- **Tech Stack**: Javascript, CSS, OpenWeather API, Netlify
+
 ## 👩‍🍳 Projects Under Construction
 
 - **Plant Swap**: An app the local community can use to swap plants.
