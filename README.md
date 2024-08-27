@@ -24,6 +24,12 @@ SoCBrain is a slick and engaging quiz experience for School of Code bootcampers 
 - **DevOps**: CI/CD, Github Flow, Github Actions, Playwright testing
 - **Design tools**: Figma
 
+🌎 Country Search - [Github Repo](https://github.com/annamariakou/country-search-annamariakou)
+
+Using a bento grid design, Country Search fetches data from the Rest Countries API to display fun facts about countries from around the world at the click of a button. 
+
+- **Tech Stack**: Javascript, Rest Countries API, CSS, Netlify, Bento Grid Design 
+
 👩‍🍳 Projects under construction 
 
 - **Plant Swap**: An app the local community can use to swap plants.
