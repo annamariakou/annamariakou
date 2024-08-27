@@ -30,7 +30,7 @@ Using a bento grid design, Country Search fetches data from the Rest Countries A
 
 - **Tech Stack**: Javascript, Rest Countries API, CSS, Netlify, Bento Grid Design 
 
-###👩‍🍳 Projects under construction 
+## 👩‍🍳 Projects Under Construction
 
 - **Plant Swap**: An app the local community can use to swap plants.
 - **Katsika**: An app for job seekers. 
