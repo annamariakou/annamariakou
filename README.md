@@ -1,6 +1,7 @@
 <img width="997" alt="Screenshot 2024-09-14 at 6 18 02 PM" src="https://github.com/user-attachments/assets/690a8276-c9af-48b8-b148-4635b59797f9">
 
 
+
 Hi there, I'm Annamaria 👋 A Full Stack Developer. 
 
 - ❤️ My passion is creating tech for good. 
