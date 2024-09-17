@@ -42,7 +42,6 @@ A minimalistic weather app, featuring the ability to select your current locatio
 - **Katsika**: An app for job seekers. 
 - **Carbon Emissions app**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamariakou&layout=compact)
 <!--
 **annamariakou/annamariakou** is a ✨ _special_ ✨ repository because its!
  `README.md` (this file) appears on your GitHub profile.
