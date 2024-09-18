@@ -15,31 +15,8 @@ Hi there, I'm Annamaria 👋 A Full Stack Developer.
 
 ## 🚀 Projects 
       
-
-🧠 SoCBrain - [Github Repo](https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm)
-
-SoCBrain is a slick and engaging quiz experience for School of Code bootcampers to test their technical knowledge. It also allows SOC coaches to track technical progress and analyze data via a dashboard view, helping to improve the bootcampers’ learning experience.
-
-- **Tech Stack**: React, Typescript, Next.js, Supabase
-- **Deployed**: Vercel
-- **DevOps**: CI/CD, Github Flow, Github Actions, Playwright testing
-- **Design tools**: Figma
-
-🌎 Country Search - [Github Repo](https://github.com/annamariakou/country-search-annamariakou)
-
-Using a bento grid design, Country Search fetches data from the Rest Countries API to display fun facts about countries from around the world at the click of a button. 
-
-- **Tech Stack**: Javascript, Rest Countries API, CSS, Netlify, Bento Grid Design 
-
-❄️ Weather App - [Github Repo](https://github.com/annamariakou/weather-app-)
-
-A minimalistic weather app, featuring the ability to select your current location, search any city, adjust from Fahrenheit to celsius and view the 6 day forecast. 
-
-- **Tech Stack**: Javascript, CSS, OpenWeather API, Netlify
-
-
 | Name                                                                                                                                                                                                                                                                      | About                                                                                               | Tech Stack                                                                  | Github link |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 🧠 SocBrain                        | SoCBrain is a slick and engaging quiz experience for School of Code bootcampers to test their technical knowledge. It also allows SOC coaches to track technical progress and analyze data via a dashboard view, helping to improve the bootcampers’ learning experience.                                                                                                                                                                                                                                                                          | React, Typescript, Next.js, Supabase, Vercel, CI/CD, Github Flow, Github Actions, Playwright, Figma                                                                                                    | [Repo](https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm)                                                                            |
 | 🌎 Country Search                  | Using a bento grid design, Country Search fetches data from the Rest Countries API to display fun facts about countries from around the world at the click of a button.                                                                                                                                                                                                                                                                                                                                                                            | Javascript, Rest Countries API, CSS, Netlify, Bento Grid Design                                                                                                                                        | [Repo](https://github.com/annamariakou/country-search-annamariakou)                                                                                    |
 | ❄️ Weather App                     | A minimalistic weather app, featuring the ability to select your current location, search any city, adjust from Fahrenheit to celsius and view the 6 day forecast.                                                                                                                                                                                                                                                                                                                                                                                 | Javascript, CSS, OpenWeather API, Netlify                                                                                                                                                              | [Repo](https://github.com/annamariakou/weather-app-)                                                                                                   |
