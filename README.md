@@ -7,7 +7,7 @@ Hi there, I'm Annamaria 👋 A Full Stack Developer.
 - ❤️ My passion is creating tech for good. 
 - 👩🏻‍💻 Specialised in MERN Tech Stack [`Javascript`, `React`, `Node.JS`, `Express.JS`] and Data Engineering [`SQL`, `Python`]
 - 🖼️ Frameworks I love: `Next.js` and `Flask`
-- 📝 Currently learning: `Swift`
+- 📝 Currently learning: `Machine Learning`
 - 🎨 I care about the `user experience` from `design` to `accessibility` and the power of `data`. 
 - 🐧 I love to share fun facts.
 
