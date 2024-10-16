@@ -2,7 +2,7 @@
 
 
 
-Hi there, I'm Annamaria 👋 A Full Stack Developer. 
+Hi there, I'm Annamaria 👋 Specialised in Full Stack Development and Data Engineering.  
 
 - ❤️ My passion is tech for good. 
 - 👩🏻‍💻 Specialised in MERN Tech Stack [`Javascript`, `React`, `Node.JS`, `Express.JS`] and Data Engineering [`SQL`, `Python`]
